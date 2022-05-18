@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2064000,RESOLUTION=1920x1080
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream06/streamPlaylist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1064000,,RESOLUTION=1280x720
+#EXT-X-STREAM-INF:BANDWIDTH=2386000,RESOLUTION=1280x720
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream05/streamPlaylist.m3u8
