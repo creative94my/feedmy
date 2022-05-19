@@ -48,5 +48,4 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rt
 #EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="501" tvg-id="501" tvg-chno="501" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/501.png",Awani
 https://raw.githubusercontent.com/creative94my/feedmy/main/ch-501.m3u8?token=GHSAT0AAAAAABUWBLUV7X7XUJUYF5K5JEQYYUEWCFA |Referer=https://www.astroawani.com
 
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="502" tvg-id="502" tvg-chno="502" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",RIA
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd |Referer=https://www.astroawani.com
+
