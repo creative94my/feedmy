@@ -1,0 +1,4 @@
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sg-sg-sg.astro.com.my:9443/sm/linear/streamingSession/abr-linear-79dc3dd3-eafb-4197-9751-2b0714b1596d/keepAlive
+#EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png" group-title="Kids/Animation",Animax
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
